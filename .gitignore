@@ -1,0 +1,8 @@
+# Sanal ortam
+env/
+.venv/
+venv/
+
+# Python önbelleği
+__pycache__/
+*.py[cod]

@@ -1,0 +1,11 @@
+name: cadproj
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pythonocc-core=7.9.3
+  - numpy=2.4.6
+  - pip
+  - pip:
+      - opencv-python==5.0.0.93
+      - trimesh==5.0.0
